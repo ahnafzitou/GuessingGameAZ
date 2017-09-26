@@ -25,5 +25,5 @@ public class GuessingGame
 		}
 		//System.out.println("Cool, I'm also" + " " + x + " years old." );
 	}
-	// Hi
 }
+//Nice project Ahnaf
